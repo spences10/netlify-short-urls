@@ -4,17 +4,20 @@
   "description": "Testing out using `_redirects` with Netlify",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "shorten": "netlify-shortener"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spences10/netlify-short-urls.git"
   },
   "keywords": [],
-  "author": "Scott Spence <spences10apps@gmail.com> (https://blog.scottspence.me/)",
+  "author": "Scott Spence <spences10apps@gmail.com> (https://scottspence.me/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/spences10/netlify-short-urls/issues"
   },
-  "homepage": "https://github.com/spences10/netlify-short-urls#readme"
+  "homepage": "https://github.com/spences10/netlify-short-urls#readme",
+  "dependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
 }
