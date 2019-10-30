@@ -1,24 +1,25 @@
-/10facts              https://10facts.scottspence.me/
-/wsl-2019             https://blog.scottspence.me/wsl-bootstrap-2019
-/cheat-sheets         https://github.com/spences10/cheat-sheets
-/jam-talk             https://spreading-the-jam-stack-2019.scottspence.me
-/wsl                  https://blog.scottspence.me/wsl-bootstrap-2019
-/faq                  https://scottspence.me/faq
-/about                https://scottspence.me/about
-/portfolio            https://scottspence.me/portfolio
-/blog                 https://blog.scottspence.me
-/cv                   https://cv.scottspence.me
-/devto                https://dev.to/spences10
-/to                   https://dev.to/spences10
-/so                   https://stackoverflow.com/users/1138354/spences10?tab=profile
-/medium               https://medium.com/@spences10
-/dium                 https://medium.com/@spences10
-/li                   https://www.linkedin.com/in/spences10
-/git                  https://github.com/spences10
-/yt                   https://www.youtube.com/channel/UCnngLXpLSFsKkDhFoO9Ct3w
-/youtube              https://www.youtube.com/channel/UCnngLXpLSFsKkDhFoO9Ct3w
-/twitter              https://twitter.com/spences10
+/10facts                        https://10facts.scottspence.me/
+/wsl-2019                       https://blog.scottspence.me/wsl-bootstrap-2019
+/cheat-sheets                   https://github.com/spences10/cheat-sheets
+/jam-talk                       https://spreading-the-jam-stack-2019.scottspence.me
+/wsl                            https://blog.scottspence.me/wsl-bootstrap-2019
+/faq                            https://scottspence.me/faq
+/about                          https://scottspence.me/about
+/portfolio                      https://scottspence.me/portfolio
+/blog                           https://blog.scottspence.me
+/cv                             https://cv.scottspence.me
+/devto                          https://dev.to/spences10
+/to                             https://dev.to/spences10
+/so                             https://stackoverflow.com/users/1138354/spences10?tab=profile
+/medium                         https://medium.com/@spences10
+/dium                           https://medium.com/@spences10
+/li                             https://www.linkedin.com/in/spences10
+/git                            https://github.com/spences10
+/yt                             https://www.youtube.com/channel/UCnngLXpLSFsKkDhFoO9Ct3w
+/youtube                        https://www.youtube.com/channel/UCnngLXpLSFsKkDhFoO9Ct3w
+/twitter                        https://twitter.com/spences10
 
-cheat-sheets.ss10.dev https://cheatsheets.xyz
+http://cheat-sheets.ss10.dev/*  https://cheatsheets.xyz/:splat 301!
+https://cheat-sheets.ss10.dev/* https://cheatsheets.xyz/:splat 301!
 
-/*                    https://scottspence.me
+/*                              https://scottspence.me
