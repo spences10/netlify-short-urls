@@ -12,4 +12,4 @@ npm run shorten https://mylongurl.com mlu
 
 This will append to your `_redirects` file.
 
-Thanks to Kent C Dodds for netlify-shortener 👌
+Thanks to Kent C Dodds for netlify-shortener 👍
