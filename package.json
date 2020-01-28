@@ -1,6 +1,6 @@
 {
   "name": "netlify-short-urls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Testing out using `_redirects` with Netlify",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/spences10/netlify-short-urls#readme",
   "dependencies": {
-    "netlify-shortener": "^1.0.3"
+    "netlify-shortener": "^2.0.0"
   }
 }
