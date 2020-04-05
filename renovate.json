@@ -1,8 +1,7 @@
 {
   "extends": ["config:base"],
   "reviewers": ["spences10"],
-  "bumpVersion": "patch",
-  "baseBranches": ["patch"],
+  "baseBranches": ["master"],
   "automerge": true,
   "major": {
     "automerge": false
